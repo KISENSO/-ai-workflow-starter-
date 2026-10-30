@@ -1,5 +1,23 @@
 # -ai-workflow-starter-
 Sammlung meiner KI-Workflows, Prompts, Tools und Automatisierungen.
+ai-workflow-starter/
+├── README.md
+├── prompts/
+│   ├── research-prompts.md
+│   ├── business-idea-prompts.md
+│   └── app-building-prompts.md
+├── workflows/
+│   ├── content-workflow.md
+│   ├── client-research-workflow.md
+│   └── prototype-workflow.md
+├── tools/
+│   ├── github-tools.md
+│   ├── hugging-face-tools.md
+│   └── open-source-ai-tools.md
+└── .github/
+    └── workflows/
+        └── readme-lint.yml
+
 # AI Workflow Starter
 
 Sammlung meiner KI-Workflows, Prompts, Tools und Automatisierungen.
@@ -18,20 +36,3 @@ Effizienter arbeiten mit GitHub, Hugging Face und Open-Source-KI-Agenten.
 - [ ] OpenCode einrichten
 - [ ] Erste Hugging Face Space erstellen
 - [ ] Automatische Checks einrichten
-ai-workflow-starter/
-├── README.md
-├── prompts/
-│   ├── research-prompts.md
-│   ├── business-idea-prompts.md
-│   └── app-building-prompts.md
-├── workflows/
-│   ├── content-workflow.md
-│   ├── client-research-workflow.md
-│   └── prototype-workflow.md
-├── tools/
-│   ├── github-tools.md
-│   ├── hugging-face-tools.md
-│   └── open-source-ai-tools.md
-└── .github/
-    └── workflows/
-        └── readme-lint.yml
